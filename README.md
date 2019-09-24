@@ -1,2 +1,4 @@
 # SW360_wiki_japanese
-translate sw360 wiki
+Translate sw360 wiki to Japanese
+
+Work in Progress
