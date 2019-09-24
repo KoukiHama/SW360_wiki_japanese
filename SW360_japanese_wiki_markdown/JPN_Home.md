@@ -1,4 +1,4 @@
-_Welcome to the SW360 Wiki!_
+_SW360 Wiki! へようこそ_
 
 For development, please see the [README.md](https://github.com/eclipse/sw360/blob/master/README.md) file of the project first. Please check also the pages on the right widget of pages. Not every page there has a link on this page!
 
